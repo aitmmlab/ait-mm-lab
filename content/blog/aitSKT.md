@@ -26,4 +26,4 @@ tags = []
   configのurlにユーザー名を追加する<br>
   コマンド  'vim ./.git/config'
 
-  [参考記事](http://blog.tokoyax.com/entry/git/git-push-403error)
+  参考記事:[http://blog.tokoyax.com/entry/git/git-push-403error](http://blog.tokoyax.com/entry/git/git-push-403error)
